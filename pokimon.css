@@ -1,0 +1,12 @@
+.poki {
+  border: 1px solid black;
+  width: 300px;
+}
+
+.poki img {
+  width: 150px;
+}
+
+.poki h1 {
+  color: blue;
+}
